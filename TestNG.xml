@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="N11 Test Suite">
+	<listeners>
+		<listener class-name="com.nopecommerce.listeners.TestNGListener" />
+	</listeners>
+	<test name="LoginTest">
+		<classes>
+			<!-- <class name="Tests.Script1"/> -->
+			 <class name="com.nopecommerce.scripts.TEMP">
+			<!-- <class name="api.test.UserTests" >  -->
+			<methods>
+				<include name = "addvalues"/>
+			</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

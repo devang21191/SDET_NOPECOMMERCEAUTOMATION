@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [N11 Test Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.nopecommerce.listeners.TestNGListener"/>
+  </listeners>
+  <test name="LoginTest(failed)">
+    <classes>
+      <class name="com.nopecommerce.scripts.LoginFeature">
+        <methods>
+          <include name="setUp"/>
+          <include name="logintestcase_1001"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.nopecommerce.scripts.LoginFeature -->
+    </classes>
+  </test> <!-- LoginTest(failed) -->
+</suite> <!-- Failed suite [N11 Test Suite] -->

@@ -1,0 +1,14 @@
+19:58:08.486 [main] INFO  - https://demo.nopcommerce.com/Launched
+19:58:08.490 [main] INFO  - ####################################################################################################
+19:58:08.491 [main] INFO  - START -----> addvalues
+19:58:08.491 [main] INFO  - ----------------------------------------------------------------------------------------------------
+19:58:09.278 [main] INFO  - click on Register link on Homepage
+19:58:11.081 [main] INFO  - Select Male Gender Radio
+19:58:11.411 [main] INFO  - Enter input to First Name field on Register page
+19:58:11.608 [main] INFO  - Enter input to Last Name field on Register page
+19:58:12.297 [main] INFO  - Select a Day of the DOB
+19:58:12.506 [main] INFO  - Select a Month of the DOB
+19:58:13.959 [main] INFO  - Select a Year of the DOB
+19:58:13.970 [main] INFO  - ----------------------------------------------------------------------------------------------------
+19:58:13.970 [main] INFO  - ***** FAILED ***** -----> addvalues
+19:58:13.971 [main] INFO  - ----------------------------------------------------------------------------------------------------
